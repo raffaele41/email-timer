@@ -2,5 +2,10 @@
   "dependencies": {
     "next": "latest",
     "@vercel/og": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest"
   }
 }
